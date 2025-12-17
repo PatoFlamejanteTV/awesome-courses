@@ -1,14 +1,14 @@
 # Awesome Courses
 
-Lista de recursos para ser un desarrollador
+Lista de recursos para se tornar um desenvolvedor
 
 ## [Freecodecamp](https://www.freecodecamp.org/learn)
-Plataforma educativa que brinda las siguentes certificaciones completamente gratuitas, cuenta con bolsa de trabajo y un canal de [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+Plataforma educativa que oferece as seguintes certificações completamente gratuitas, conta com bolsa de empregos e um canal no [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-- JavaScriopt Algorithms and Data Structures
+- JavaScript Algorithms and Data Structures
 - Front End Libraries
 - Data Visualization
-- APIs and Microservicios
+- APIs and Microservices
 - Quality Assurance
 - Scientific Computing with Python
 - Data Analysis with Python
@@ -16,7 +16,7 @@ Plataforma educativa que brinda las siguentes certificaciones completamente grat
 - Machine Learning with Python Certification
 
 ## [Redis University](https://university.redislabs.com/) 
-Aprende Redis con cursos gratuitos
+Aprenda Redis com cursos gratuitos
 
 - [Introduction to Redis Data Structures](https://university.redislabs.com/courses/ru101/)
 - [Redis for Java Developers](https://university.redislabs.com/courses/ru102j/)
@@ -27,7 +27,7 @@ Aprende Redis con cursos gratuitos
 - [Redis Security](https://university.redislabs.com/courses/ru330/)
 
 ## [MongoDB University](https://university.mongodb.com/) 
-Aprende MongDB con cursos y tutoriales gratuitos
+Aprenda MongoDB com cursos e tutoriais gratuitos
     
 - [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
@@ -44,33 +44,33 @@ Aprende MongDB con cursos y tutoriales gratuitos
 - [M320: Data Modeling](https://university.mongodb.com/courses/M320/about)
 
 ## [Pildoras Informaticas](https://www.pildorasinformaticas.es/)
-Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.youtube.com/user/pildorasinformaticas)
+Cursos de informática gratuitos, conta com um canal no [youtube](https://www.youtube.com/user/pildorasinformaticas)
 
 - Ofimática
-    - [Excel 2019. Basico - Medio - Avanzado](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado/)
+    - [Excel 2019. Básico - Intermediário - Avançado](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado/)
     - [PowerPoint 2013](https://www.pildorasinformaticas.es/course/powerpoint-2013/)
     - [Access Básico 2010](https://www.pildorasinformaticas.es/course/curso-access-2010-basico/)
     - [Excel Básico 2010](https://www.pildorasinformaticas.es/course/excel-basico/)
-    - [Word Avanzado](https://www.pildorasinformaticas.es/course/word-avanzado-2010/)
-    - [Access Avanzado 2010](https://www.pildorasinformaticas.es/course/access-2010-avanzado/)
+    - [Word Avançado](https://www.pildorasinformaticas.es/course/word-avanzado-2010/)
+    - [Access Avançado 2010](https://www.pildorasinformaticas.es/course/access-2010-avanzado/)
     - [VBA Access](https://www.pildorasinformaticas.es/course/vba-access/)
     - [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel/)
-- Programación web
+- Programação web
     - [PHP MySql. Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql/)
     - [PHP MySql. Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2/)
-    - [JavaScript desde 0](https://www.pildorasinformaticas.es/course/javascript-desde-0/)
-- Aplicaciones móviles
+    - [JavaScript do 0](https://www.pildorasinformaticas.es/course/javascript-desde-0/)
+- Aplicativos móveis
     - [Android. Módulo 1](https://www.pildorasinformaticas.es/course/android-con-android-studio/)
     - [Android. Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2/)
     - [Android. Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3/)
 - Python
     - [Curso Python. Módulo 1](https://www.pildorasinformaticas.es/course/curso-python/)
     - [Curso Python. Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2/)
-- Bases de Datos
+- Banco de Dados
     - [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql/)
-- Diseño web
+- Web Design
     - [HTML 5](https://www.pildorasinformaticas.es/course/html-5/)
-    - [CSS Avanzado desde 0](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0/)
+    - [CSS Avançado do 0](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0/)
 - Frameworks
     - [Curso Django](https://www.pildorasinformaticas.es/course/django/)
     - [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring/)
@@ -80,36 +80,36 @@ Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.yout
 - [C#](https://www.pildorasinformaticas.es/course-cat/c/)
 
 ## [Jonmircha](https://jonmircha.com)
-Tu amigo y docente digital
+Seu amigo e professor digital
 - [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
 - [Curso Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
 - [Progressive Web Apps](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6)
 - [Curso Node.js](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND)
-- [Curso POO con PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1)
-- [Software para la Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY7b6mTNigrfZxXNkk0aJd2)
-- [Tips CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYVLwbW09GGgG2EOFJeNWmQ)
+- [Curso POO com PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1)
+- [Software para a Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY7b6mTNigrfZxXNkk0aJd2)
+- [Dicas CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYVLwbW09GGgG2EOFJeNWmQ)
 - [KISS PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZWYh18UN6Q9rfkoqy5A9Xn)
-- [Curso Desarrollo Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbxAO7uRoeNHH6ZCyjr7xq2)
+- [Curso Desenvolvimento Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbxAO7uRoeNHH6ZCyjr7xq2)
 - [Responsive Design](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbFYbzpJFN1GLMBZnm9hX5G)
 - [Curso WordPress](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZDOcKsQz79wnYlTvmAdLkj)
-- [Tutoriales HTML5](https://www.youtube.com/playlist?list=PL211E9DF848CA18FF)
-- [Tutoriales PHP](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
+- [Tutoriais HTML5](https://www.youtube.com/playlist?list=PL211E9DF848CA18FF)
+- [Tutoriais PHP](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
 - [Curso jQuery](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7)
 - [Curso ActionScript 3](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94)
 
 ## [Yoney Gallardo](https://yoneygallardo.com/) 
-Cursos y tutoriales de infomática en español
-- [Programación](https://yoneygallardo.com/category/cursos-de-programacion/)
+Cursos e tutoriais de informática em espanhol
+- [Programação](https://yoneygallardo.com/category/cursos-de-programacion/)
 - [Ofimática](https://yoneygallardo.com/category/cursos-de-ofimatica/)
-- [Modelado y Animación](https://yoneygallardo.com/category/cursos-de-modelado-y-animacion/)
-- [Diseño Gráfico](https://yoneygallardo.com/category/diseno-grafico-y-marketing/)
-- [Desarrollo Web](https://yoneygallardo.com/category/curso-de-desarrollo-y-diseno-web/)
-- [Audio y Video](https://yoneygallardo.com/category/cursos-de-audio-y-video/)
+- [Modelagem e Animação](https://yoneygallardo.com/category/cursos-de-modelado-y-animacion/)
+- [Design Gráfico](https://yoneygallardo.com/category/diseno-grafico-y-marketing/)
+- [Desenvolvimento Web](https://yoneygallardo.com/category/curso-de-desarrollo-y-diseno-web/)
+- [Áudio e Vídeo](https://yoneygallardo.com/category/cursos-de-audio-y-video/)
 
 ## [fullstackopen](https://fullstackopen.com/en)
-Aprende React, Redux, Node, Mongo, Graphql y TypeScript
-- [Fundamentas of Web apps](https://fullstackopen.com/en/part0)
-- [Instroduction to React](https://fullstackopen.com/en/part1)
+Aprenda React, Redux, Node, Mongo, Graphql e TypeScript
+- [Fundamentals of Web apps](https://fullstackopen.com/en/part0)
+- [Introduction to React](https://fullstackopen.com/en/part1)
 - [Communicating with server](https://fullstackopen.com/en/part2)
 - [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 - [Testing Express servers, user administration](https://fullstackopen.com/en/part4)
@@ -120,7 +120,7 @@ Aprende React, Redux, Node, Mongo, Graphql y TypeScript
 - [Typescript](https://fullstackopen.com/en/part9)
 
 ## [The Odin Project](https://www.theodinproject.com/)
-Tu carrera como desarrollador web comienza aquí
+Sua carreira como desenvolvedor web começa aqui
 - [Full Stack Ruby on Rails](https://www.theodinproject.com/tracks/full-stack-ruby-on-rails)
     - [Web Development 101 ](https://www.theodinproject.com/courses/web-development-101)
     - [Ruby Programming ](https://www.theodinproject.com/courses/ruby-programming)
@@ -142,18 +142,18 @@ Tu carrera como desarrollador web comienza aquí
     - [Getting Hired](https://www.theodinproject.com/courses/getting-hired)
 
 ## [Itoo](https://itoo.dev?affcode=600175_4eur2cvy)
-Plataforma de educación digital con soporte personalizado de los mejores instructores
-- [Minicurso Firebase para Android. Base de datos(tiempo real)](https://itoo.dev/p/curso-firebase-para-android-realtime-database?affcode=600175_4eur2cvy)
-- [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica](https://itoo.dev/p/python3?affcode=600175_4eur2cvy)
-- [React JS: La biblioteca de JS creada por Facebook](https://itoo.dev/p/react-js-la-biblioteca-de-js-creada-por-facebook?affcode=600175_4eur2cvy)
-- [Minicurso Diseño para android con Material Design y Theming](https://itoo.dev/p/minicurso-material-design-for-android?affcode=600175_4eur2cvy)
-- [Aprende Lenguaje GO desde 0](https://itoo.dev/p/lenguaje-go-desde-0?affcode=600175_4eur2cvy)
-- [Lenguaje COBOL desde 0](https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_4eur2cvy)
-- [Como instalar cualquier CMS en un Hosting](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
-- [Programación Básica](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
+Plataforma de educação digital com suporte personalizado dos melhores instrutores
+- [Minicurso Firebase para Android. Banco de dados(tempo real)](https://itoo.dev/p/curso-firebase-para-android-realtime-database?affcode=600175_4eur2cvy)
+- [Master em Python 3.x. Aprenda de 0 a EXPERT com Prática](https://itoo.dev/p/python3?affcode=600175_4eur2cvy)
+- [React JS: A biblioteca de JS criada pelo Facebook](https://itoo.dev/p/react-js-la-biblioteca-de-js-creada-por-facebook?affcode=600175_4eur2cvy)
+- [Minicurso Design para android com Material Design e Theming](https://itoo.dev/p/minicurso-material-design-for-android?affcode=600175_4eur2cvy)
+- [Aprenda Linguagem GO do 0](https://itoo.dev/p/lenguaje-go-desde-0?affcode=600175_4eur2cvy)
+- [Linguagem COBOL do 0](https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_4eur2cvy)
+- [Como instalar qualquer CMS em uma Hospedagem](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
+- [Programação Básica](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
 
 ## [Scrimba](https://scrimba.com/)
-Plataforma interactiva para aprender a programar en tecnologias como HTML, CSS, JavaScript, React, Vue y mucho mas.
+Plataforma interativa para aprender a programar em tecnologias como HTML, CSS, JavaScript, React, Vue e muito mais.
 - [Practical math for frontend developers](https://scrimba.com/course/gpracticalmath)
 - [Build a movie search app in React](https://scrimba.com/course/greactmovie)
 - [Learn Svelte](https://scrimba.com/course/glearnsvelte)
@@ -192,50 +192,50 @@ Plataforma interactiva para aprender a programar en tecnologias como HTML, CSS, 
 - [Learn CSS Grid for free](https://scrimba.com/course/gR8PTE)
 
 ## [Makigas](https://www.makigas.es/)
-Tutoriales de programación gratuitos y en castellano
-- [Desarrollo de juegos](https://www.makigas.es/topics/desarrollo-de-juegos)
+Tutoriais de programação gratuitos e em espanhol
+- [Desenvolvimento de jogos](https://www.makigas.es/topics/desarrollo-de-juegos)
     - [Tutorial de libGDX](https://www.makigas.es/series/tutorial-de-libgdx)
     - [Slick2D](https://www.makigas.es/series/slick2d)
     - [mini2dx](https://www.makigas.es/series/mini2dx)
-    - [Haciendo un juego de naves con libGDX](https://www.makigas.es/series/mini2dx)
+    - [Fazendo um jogo de naves com libGDX](https://www.makigas.es/series/mini2dx)
 - [Java](https://www.makigas.es/topics/java)
     - [JDBC](https://www.makigas.es/series/jdbc)
     - [JUnit](https://www.makigas.es/series/junit)
-    - [Automatizando con Gradle](https://www.makigas.es/series/automatizando-con-gradle)
+    - [Automatizando com Gradle](https://www.makigas.es/series/automatizando-con-gradle)
     - [JPA + Hibernate](https://www.makigas.es/series/jpa-hibernate)
-- [Mejora tus skills](https://www.makigas.es/topics/mejora-tus-skills)
-    - [Estructuras de datos](https://www.makigas.es/series/estructuras-de-datos)
+- [Melhore suas skills](https://www.makigas.es/topics/mejora-tus-skills)
+    - [Estruturas de dados](https://www.makigas.es/series/estructuras-de-datos)
     - [Tutorial de Git](https://www.makigas.es/series/tutorial-de-git)
-    - [Algoritmos de ordenación](https://www.makigas.es/series/algoritmos-de-ordenacion)
+    - [Algoritmos de ordenação](https://www.makigas.es/series/algoritmos-de-ordenacion)
     - [Vagrant](https://www.makigas.es/series/vagrant)
     - [Ansible](https://www.makigas.es/series/ansible )
-- [Emisiones en directo](https://www.makigas.es/topics/emisiones-en-directo)
+- [Transmissões ao vivo](https://www.makigas.es/topics/emisiones-en-directo)
     - [Rectball](https://www.makigas.es/series/rectball)
-    - [Construyendo un emulador CHIP-8](https://cdn.makigas.es/playlists/thumbnails/000/000/010/default/chip8.png?1483739088)
-- [Lenguajes de programación](https://www.makigas.es/topics/lenguajes-de-programacion)
+    - [Construindo um emulador CHIP-8](https://cdn.makigas.es/playlists/thumbnails/000/000/010/default/chip8.png?1483739088)
+- [Linguagens de programação](https://www.makigas.es/topics/lenguajes-de-programacion)
     - [Racket](https://www.makigas.es/series/racket)
     - [Make](https://www.makigas.es/series/make)
     - [Scala](https://www.makigas.es/series/scala)
     - [Tutorial de C](https://www.makigas.es/series/tutorial-de-c)
-- [Desarrollo web](https://www.makigas.es/topics/desarrollo-web)
+- [Desenvolvimento web](https://www.makigas.es/topics/desarrollo-web)
     - [HTML Básico](https://www.makigas.es/series/html-basico)
     - [Web Components](https://www.makigas.es/series/web-components)
     - [TypeScript](https://www.makigas.es/series/typescript)
 
 ## [Capacitate para el empleo](https://capacitateparaelempleo.org/)
-Plataforma digital desarrollada por la fundacion carlos slim con miles de cursos y diplomados gratuitos
-- [Diplomado Técnico en Big Data](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbd)
-- [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtsi)
-- [Diplomado Técnico en Integridad web](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtiw)
-- [Diplomado Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
-- [Diplomado en Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
-- [Diplomado de Desarrollo de estrategias digitales de aprendizaje ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dteda)
-- [Diplomado en Desarrollo de sitios web y aplicaciones móviles](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dswam)
-- [Diplomado en Inteligencia de negocios o Business intelligence ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbi)
-- [Diplomado Técnico en Cómputo en la nube](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtcn)
+Plataforma digital desenvolvida pela fundação Carlos Slim com milhares de cursos e diplomas gratuitos
+- [Diploma Técnico em Big Data](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbd)
+- [Diploma Técnico em Sistemas de Informação](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtsi)
+- [Diploma Técnico em Integridade web](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtiw)
+- [Diploma Gestão de Ambientes Virtuais de Aprendizagem](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
+- [Diploma em Gestão de Ambientes Virtuais de Aprendizagem](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
+- [Diploma de Desenvolvimento de estratégias digitais de aprendizagem](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dteda)
+- [Diploma em Desenvolvimento de sites web e aplicativos móveis](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dswam)
+- [Diploma em Inteligência de negócios ou Business intelligence](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbi)
+- [Diploma Técnico em Computação em nuvem](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtcn)
 
 ## [The Linux Fundation Training](https://training.linuxfoundation.org/)
-La Fundación Linux ofrece una amplia gama de cursos, seminarios web, tutoriales y publicaciones gratuitos para ayudarlo a explorar el panorama de la tecnología de código abierto.
+A Fundação Linux oferece uma ampla gama de cursos, webinários, tutoriais e publicações gratuitas para ajudá-lo a explorar o panorama da tecnologia de código aberto.
 - [Introduction to Jenkins](https://training.linuxfoundation.org/resources/free-courses/introduction-to-jenkins/)
 - [Introduction to FinOps](https://training.linuxfoundation.org/resources/free-courses/introduction-to-finops/)
 - [Business Considerations for Edge Computing](https://training.linuxfoundation.org/resources/free-courses/business-considerations-for-edge-computing/)
